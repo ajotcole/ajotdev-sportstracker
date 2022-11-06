@@ -1,0 +1,19 @@
+{
+  "name": "ajotdev-sportstracker",
+  "version": "1.0.0",
+  "description": "Tracker for Apple Health Data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajotcole/ajotdev-sportstracker.git"
+  },
+  "author": "Alexander James Cole",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajotcole/ajotdev-sportstracker/issues"
+  },
+  "homepage": "https://github.com/ajotcole/ajotdev-sportstracker#readme"
+}
