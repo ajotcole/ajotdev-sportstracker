@@ -1,0 +1,17 @@
+{
+  "folders": [
+    {
+      "path": "./backend",
+      "name": "backend"
+    },
+    {
+      "path": "./fitnesstracker",
+      "name": "frontend"
+    },
+    {
+      "path": ".",
+      "name": "base"
+    }
+  ],
+  "settings": {}
+}
